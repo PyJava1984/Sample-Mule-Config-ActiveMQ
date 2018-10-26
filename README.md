@@ -1,0 +1,1 @@
+# Sample-Mule-Config-ActiveMQ
